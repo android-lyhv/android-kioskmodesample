@@ -1,6 +1,8 @@
 <resources>
-    <string name="app_name">KisokModeSample</string>
+    <string name="app_name">Diamond Seat</string>
     <string name="device_admin_enabled">Kiosk</string>
     <string name="device_admin_warning">Warning: Device Admin is going to be disabled.</string>
     <string name="device_admin_disabled">Device Admin disabled</string>
+    <string name="settings_title">Settings</string>
+    <string name="save_title">Save</string>
 </resources>

@@ -1,4 +1,4 @@
-package com.ervn.kisokmodesample
+package jp.eplus.diamondseat
 
 import org.junit.Test
 

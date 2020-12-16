@@ -1,10 +1,9 @@
-package com.ervn.kisokmodesample
+package jp.eplus.diamondseat
 
 import android.app.admin.DeviceAdminReceiver
 import android.content.Context
 import android.content.Intent
 import android.widget.Toast
-import androidx.core.os.bundleOf
 
 class KioskAdminReceiver : DeviceAdminReceiver() {
     override fun onEnabled(context: Context, intent: Intent) {
